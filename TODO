@@ -1,0 +1,3 @@
+- use with multiple lights (more clusters)
+- improved logging to check refresh rate timeout rate
+- have progressive fading to keep cluster centers
