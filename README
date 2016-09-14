@@ -1,0 +1,14 @@
+Screen 2 Lifx
+
+Match the lighting of your display to your lifx.
+
+Currently only works with hard coded lamp id, and windows games work randomly.
+
+install on windows
+------------------
+
+- install python 2.7 (feel free to provide patch for 3.4)
+- install python PIL (http://www/pythonware.com/products/pil)
+- install numpy ()
+- install scipy ()
+- install lifx-sdk
